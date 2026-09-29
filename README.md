@@ -6,7 +6,7 @@ Full-stack web developer from India. I enjoy shipping small products end-to-end 
 
 | Project | About |
 | --- | --- |
-| **[Attenious](https://github.com/mohitjatktp/attenious)** | Adaptive attention & focus games for kids ages 4–10, with weekly progress reports for parents. Live landing site on Netlify. |
+| **Attenious** *(private — my own product)* | Adaptive attention & focus games for kids ages 4–10, with weekly progress reports for parents. Live on Netlify. |
 | **[Photogram](https://github.com/mohitjatktp/photogram-demo)** | An Instagram-like social app demo built with React + Express + SQLite, with a static demo deployed on GitHub Pages. |
 
 ## 🛠️ Tech stack
